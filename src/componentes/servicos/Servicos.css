@@ -1,0 +1,30 @@
+.servicos {
+    margin: 0 auto;
+    padding-bottom: 5vh;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.desc_servicos {
+    text-align: center;
+}
+
+.desc_servicos h1 {
+    color: #53AFB5;
+}
+
+.desc_servicos p {
+    font-size: 20px;
+}
+
+.imagens_servicos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 20px;
+}
+
+.servicos img {
+    border-radius: 50px;
+}

@@ -1,0 +1,63 @@
+.rodape {
+    background-color: #1D3535;
+    bottom: 0;
+    margin-bottom: 0;
+    color: #ffffff;
+}
+
+.conteudo_rodape {
+    width: 60vw;
+    margin: 0 auto;
+    border-bottom: 1px solid #ffffff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.rocket_team {
+    max-width: 139.05px;
+    padding: 20px 0;
+    margin: auto 0;
+}
+
+.rocket_team img {
+    width: 139.05px;
+    height: 78.9px;
+}
+
+.meio_rodape {
+    margin: auto 0;
+}
+
+.meio_rodape li {
+    text-align: center;
+    list-style: none;
+}
+
+.meio_rodape a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.redes_sociais {
+    color: #ffffff;
+    margin: auto 0;
+    text-align: center;
+}
+
+.redes_sociais ul li {
+    display: inline;
+}
+
+.copyright {
+    width: 60vw;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+.copyright p {
+    margin: 0 auto;
+    padding: 20px;
+}

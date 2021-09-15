@@ -1,0 +1,38 @@
+.desc_sobre {
+    text-align: center;
+}
+
+.desc_sobre h1 {
+    color: #53AFB5;
+}
+
+.desc_sobre p {
+    font-size: 20px;
+}
+
+.sobre {
+    margin: 0 auto;
+    padding-bottom: 5vh;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.conteudo_sobre {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 5vh;
+}
+
+.texto_sobre {
+    width: 28vw;
+    margin: auto;
+    min-width: 300px;
+}
+
+.imagem_sobre {
+    margin: auto;
+}
+

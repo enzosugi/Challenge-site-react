@@ -1,0 +1,56 @@
+.atendimento {
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 9vh;
+}
+
+
+.atendimento_emergencial {
+   text-align: center;
+   width: 35vw;
+   margin-bottom: 10vh;
+   min-width: 200px;
+}
+
+.atendimento p {
+    font-size: 20px;
+}
+
+.botao_atendimento {
+    margin-top: 50px;
+}
+
+.botao_atendimento li {
+    color: #ffffff;
+    font-size: 20px;
+    display: inline;
+    text-transform: uppercase;
+}
+
+.botao_atendimento a:hover {
+    color: #000000;
+}
+
+.botao_atendimento a {
+    text-decoration: none;
+    color: inherit;
+    white-space: nowrap;
+}
+
+.botao_atendimento img {
+    margin: auto 0;
+}
+
+.inicia_atendimento {
+    text-align: center;
+    background-color: #3385e4;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.meditando img {
+    margin-left: 3vw;
+}
